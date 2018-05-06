@@ -9,4 +9,6 @@ function whisper(string) {
 }
 
 
-console.log(logShout.toUpperCase())
+var logShout = 'hello'
+logShout.toUpperCase === 'HELLO'
+console.log(logShout.toUpperCase('HELLO'))
