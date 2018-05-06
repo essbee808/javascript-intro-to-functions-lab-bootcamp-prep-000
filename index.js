@@ -7,3 +7,12 @@ function whisper(string) {
   return string.toLowerCase()
   console.log(whisper.toLowerCase())
 }
+
+function logShout(string) {
+  console.log(logShout.toUpperCase())
+}
+
+function logWhisper(string) {
+  console.log(logWhisper.toLowerCase())
+}
+
