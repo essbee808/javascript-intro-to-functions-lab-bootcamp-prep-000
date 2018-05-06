@@ -9,3 +9,4 @@ function whisper(string) {
 }
 
 'Hello!'.toUpperCase()
+console.log(logShout(string))
